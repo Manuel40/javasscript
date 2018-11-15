@@ -1,0 +1,11 @@
+commit b6a8d0f9168fb2e399bda091d803a35e393dfcdb
+Author: Manuel <jgonzalez10@ucol.mx>
+Date:   Thu Nov 15 10:44:34 2018 -0800
+
+    agrege un article
+
+commit 9152d559c85ffd5477a705563f49632f4175f6e7
+Author: Manuel <jgonzalez10@ucol.mx>
+Date:   Thu Nov 15 10:36:04 2018 -0800
+
+    iniciamos
